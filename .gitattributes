@@ -15,3 +15,5 @@
 *.dll filter=lfs diff=lfs merge=lfs -text
 fonts/HMOSColorEmojiCompat.ttf filter=lfs diff=lfs merge=lfs -text
 fonts/HarmonyOS_Sans_SC.ttf filter=lfs diff=lfs merge=lfs -text
+fonts/HMSymbolVF.ttf filter=lfs diff=lfs merge=lfs -text
+fonts/hm_symbol_config_next.json filter=lfs diff=lfs merge=lfs -text
