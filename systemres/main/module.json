@@ -10174,6 +10174,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.HIDDEN_CAMERA_DETECTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.AUTH_SERVICE_ACCESS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
