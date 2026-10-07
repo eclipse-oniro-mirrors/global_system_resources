@@ -8357,6 +8357,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.CONNECT_AGENT_FROM_BACKGROUND",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.CONNECT_OBJECTEDITOR_EXTENSION",
                 "grantMode": "system_grant",
                 "availableLevel": "normal",
