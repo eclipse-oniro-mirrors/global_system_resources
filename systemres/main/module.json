@@ -10190,6 +10190,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.vehicle.INNER_NETWORK",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
