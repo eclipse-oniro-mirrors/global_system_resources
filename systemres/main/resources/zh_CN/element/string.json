@@ -4197,17 +4197,11 @@
         },
         {
             "name":"ohos_lab_direct_call",
-            "value":"一键拨号",
-            "attr":{
-                "priority":"translate"
-            }
+            "value":"一键拨号"
         },
         {
             "name":"ohos_desc_direct_call",
-            "value":"允许应用一键拨号",
-            "attr":{
-                "priority":"translate"
-            }
+            "value":"允许应用一键拨号"
         }
     ]
 }
