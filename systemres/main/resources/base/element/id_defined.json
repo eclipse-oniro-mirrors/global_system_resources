@@ -40321,6 +40321,16 @@
             "type": "float",
             "name": "subheader_title_margin_bottom",
             "order": 7982
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_direct_call",
+            "order": 7983
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_direct_call",
+            "order": 7984
         }
     ]
 }
