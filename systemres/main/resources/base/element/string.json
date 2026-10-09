@@ -4350,6 +4350,20 @@
             "attr":{
                 "priority":"translate"
             }
+        },
+        {
+            "name":"ohos_lab_direct_call",
+            "value":"Direct call",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"ohos_desc_direct_call",
+            "value":"Allow an application to make one-click calls",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
