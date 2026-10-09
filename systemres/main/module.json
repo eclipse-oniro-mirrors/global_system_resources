@@ -9388,6 +9388,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.GET_AUDIO_ADAPTER_INFO",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.MANAGE_AUDIO_ACCESSORY",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -10175,6 +10184,15 @@
             },
             {
                 "name": "ohos.permission.AUTH_SERVICE_ACCESS",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.vehicle.INNER_NETWORK",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "since": "26.2.0",
