@@ -4358,6 +4358,14 @@
         {
             "name":"ohos_desc_direct_call",
             "value":"Allow an application to make one-click calls"
+        },
+        {
+            "name":"ohos_lab_window_capture",
+            "value":"Allows an application to capture the content information of a specified window"
+        },
+        {
+            "name":"ohos_desc_window_capture",
+            "value":"With this permission, the application can capture the content information of specified window."
         }
     ]
 }

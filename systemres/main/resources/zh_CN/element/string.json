@@ -4202,6 +4202,14 @@
         {
             "name":"ohos_desc_direct_call",
             "value":"允许应用一键拨号"
+        },
+        {
+            "name":"ohos_lab_window_capture",
+            "value":"允许应用获取指定窗口的内容信息"
+        },
+        {
+            "name":"ohos_desc_window_capture",
+            "value":"应用获取此权限后，可获取指定窗口的内容信息。"
         }
     ]
 }

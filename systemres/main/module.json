@@ -10315,6 +10315,17 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.WINDOW_CAPTURE",
+                "grantMode": "user_grant",
+                "availableLevel": "normal",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "label": "$string:ohos_lab_window_capture",
+                "description": "$string:ohos_desc_window_capture"
             }
         ]
     }
