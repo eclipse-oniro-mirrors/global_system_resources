@@ -10305,6 +10305,16 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ENTERPRISE_ATTEST_KEY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "availableType": "MDM",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
