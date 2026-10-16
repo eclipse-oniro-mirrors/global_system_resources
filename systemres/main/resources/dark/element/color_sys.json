@@ -54,7 +54,7 @@
         },
         {
             "name": "icon_emphasize",
-            "value": "$color:brand_font"
+            "value": "$color:brand_icon"
         },
         {
             "name": "icon_sub_emphasize",
@@ -122,11 +122,11 @@
         },
         {
             "name": "comp_emphasize_secondary",
-            "value": "#33006CDE"
+            "value": "$color:brand20"
         },
         {
             "name": "comp_emphasize_tertiary",
-            "value": "#19006CDE"
+            "value": "$color:brand10"
         },
         {
             "name": "comp_divider",
@@ -252,7 +252,7 @@
             "name": "swiper_indicator_unselected_focus_color",
             "value": "$color:ohos_id_color_component_normal"
         },
-	    {
+        {
             "name": "button_border_color",
             "value": "#ff000000"
         },
@@ -314,7 +314,7 @@
         },
         {
             "name": "popup_text_color_normal",
-            "value": "$color:font_emphasize"
+            "value": "$color:brand_font"
         },
         {
             "name": "popup_container_default_color",
@@ -353,4 +353,4 @@
             "value": "$color:mask_tertiary"
         }
     ]
-  }
+}

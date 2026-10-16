@@ -40331,6 +40331,76 @@
             "type": "string",
             "name": "ohos_desc_direct_call",
             "order": 7984
+        },
+        {
+            "type": "color",
+            "name": "brand_contrary",
+            "order": 7985
+        },
+        {
+            "type": "color",
+            "name": "brand10",
+            "order": 7986
+        },
+        {
+            "type": "color",
+            "name": "brand20",
+            "order": 7987
+        },
+        {
+            "type": "color",
+            "name": "brand30",
+            "order": 7988
+        },
+        {
+            "type": "color",
+            "name": "brand40",
+            "order": 7989
+        },
+        {
+            "type": "color",
+            "name": "brand_contrary40",
+            "order": 7990
+        },
+        {
+            "type": "color",
+            "name": "brand_light",
+            "order": 7991
+        },
+        {
+            "type": "color",
+            "name": "brand_light40",
+            "order": 7992
+        },
+        {
+            "type": "color",
+            "name": "brand_dark",
+            "order": 7993
+        },
+        {
+            "type": "color",
+            "name": "brand_dark30",
+            "order": 7994
+        },
+        {
+            "type": "color",
+            "name": "brand_dark40",
+            "order": 7995
+        },
+        {
+            "type": "color",
+            "name": "brand_icon",
+            "order": 7996
+        },
+        {
+            "type": "color",
+            "name": "brand_active",
+            "order": 7997
+        },
+        {
+            "type": "color",
+            "name": "brand_light_01",
+            "order": 7998
         }
     ]
 }
