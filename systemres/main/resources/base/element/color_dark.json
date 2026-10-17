@@ -530,7 +530,7 @@
         },
         {
             "name": "ohos_id_color_floating_button_shadow_start_dark",
-            "value": "$color:brand_dark30"
+            "value": "#4d006cde"
         },
         {
             "name": "ohos_id_color_floating_button_shadow_end_dark",

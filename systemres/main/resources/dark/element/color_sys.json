@@ -54,7 +54,7 @@
         },
         {
             "name": "icon_emphasize",
-            "value": "$color:brand_icon"
+            "value": "$color:brand_font"
         },
         {
             "name": "icon_sub_emphasize",
@@ -314,7 +314,7 @@
         },
         {
             "name": "popup_text_color_normal",
-            "value": "$color:brand_font"
+            "value": "$color:font_emphasize"
         },
         {
             "name": "popup_container_default_color",
@@ -353,4 +353,4 @@
             "value": "$color:mask_tertiary"
         }
     ]
-}
+  }

@@ -58,7 +58,7 @@
         },
         {
             "name": "icon_emphasize",
-            "value": "$color:brand_icon"
+            "value": "$color:brand_font"
         },
         {
             "name": "icon_sub_emphasize",
@@ -262,7 +262,7 @@
         },
         {
             "name": "titlebar_icon_background_focus_outline_color",
-            "value": "$color:brand_contrary"
+            "value": "$color:interactive_focus"
         },
         {
             "name": "dataPanel_color_subheading_separator",
@@ -1042,7 +1042,7 @@
         },
         {
             "name": "segment_button_v2_capsule_selected_item_background",
-            "value": "$color:brand"
+            "value": "$color:comp_background_emphasize"
         },
         {
             "name": "segment_button_v2_multi_capsule_button_background",
@@ -1050,7 +1050,7 @@
         },
         {
             "name": "segment_button_v2_multi_capsule_selected_item_background",
-            "value": "$color:brand"
+            "value": "$color:comp_background_emphasize"
         },
         {
             "name": "font_normal",
@@ -1058,7 +1058,7 @@
         },
         {
             "name": "popup_text_color_normal",
-            "value": "$color:brand_font"
+            "value": "$color:font_emphasize"
         },
         {
             "name": "popup_primary_button_background_color_sys",
@@ -1161,4 +1161,4 @@
             "value": "$color:comp_background_tertiary"
         }
     ]
-}
+  }
