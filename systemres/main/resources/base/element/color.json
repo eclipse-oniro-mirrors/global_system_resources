@@ -946,7 +946,7 @@
         },
         {
             "name": "ohos_id_focus_color",
-            "value": "$color:brand_contrary"
+            "value": "$color:interactive_focus"
         },
         {
             "name": "ohos_id_counter_title_font_color",
