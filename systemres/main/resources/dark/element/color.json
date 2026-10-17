@@ -1218,7 +1218,7 @@
         },
         {
             "name": "popup_primary_button_font_color",
-            "value": "$color:brand_font"
+            "value": "$color:font_emphasize"
         },
         {
             "name": "popup_secondary_button_font_color",
