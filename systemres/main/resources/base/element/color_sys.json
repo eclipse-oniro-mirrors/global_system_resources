@@ -530,7 +530,7 @@
         },
         {
             "name": "textfield_cursor_color",
-            "value": "$color:brand_font"
+            "value": "$color:font_emphasize"
         },
         {
             "name": "search_placeholder_color",
