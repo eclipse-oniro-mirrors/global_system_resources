@@ -3250,7 +3250,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"This will add an \"AI-generated\" watermark to this image. You can change your preferences at any time in More > AI-generated watermark.",
+            "value":"An \"AI-generated\" watermark will be added to this image. You can change your preferences at any time in More > AI-generated watermark.",
             "attr":{
                 "priority":"translate"
             }

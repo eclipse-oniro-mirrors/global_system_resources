@@ -36,83 +36,6 @@
             }
         },
         {
-            "name":"image_generation_smart_cutout",
-            "value":"Ritaglia",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_smart_selection",
-            "value":"Automatica",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_manual_brush",
-            "value":"Manuale",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_smart_selection_tip",
-            "value":"Disegna una linea attorno a un oggetto per selezionarlo.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_manual_brush_tip",
-            "value":"Puoi espandere l'area selezionata scorrendo sullo schermo.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_replace_origin_image",
-            "value":"Sostituisci originale",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_undo_cutout",
-            "value":"Annulla ritaglia",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_adjust_brush",
-            "value":"Regolazione della dimensione del pennello. L'intervallo di regolazione è da %1$d a %2$d. Tocca due volte e tieni premuto, quindi scorri verso sinistra o verso destra per regolare. La dimensione corrente è %3$d.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_brush_thickness",
-            "value":"Le dimensioni del pennello sono state regolate, la dimensione corrente è %d",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_add_emoji",
-            "value":"Salva emoji",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_has_added_emoji",
-            "value":"Emoji salvato.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_web_search_generate_photo",
             "value":"Tela intelligente effettuerà ricerche online per aiutare a comprendere meglio la descrizione dell'immagine che desideri generare.",
             "attr":{
@@ -3579,21 +3502,21 @@
         },
         {
             "name":"node_graph_image_generation_task_incomplete_confirm_exit_rollback",
-            "value":"Questa azione terminerà l'attività corrente di generazione dell'immagine. I crediti AI utilizzati verranno rimborsati entro %d ore.",
+            "value":"Questa operazione terminerà l'attività corrente di generazione dell'immagine. I crediti AI utilizzati verranno rimborsati entro %d ore.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"node_graph_confirm_delete_generate_node_rollback",
-            "value":"Questa azione terminerà l'attività corrente di generazione dell'immagine. I crediti AI utilizzati verranno rimborsati entro %d ore.",
+            "value":"Questa operazione terminerà l'attività corrente di generazione dell'immagine. I crediti AI utilizzati verranno rimborsati entro %d ore.",
             "attr":{
                 "priority":"translate"
             }
         },
         {
             "name":"image_generation_switch_graph_description_rollback",
-            "value":"Questa azione terminerà l'attività corrente di generazione dell'immagine. I crediti AI utilizzati verranno rimborsati entro %d ore.",
+            "value":"Questa operazione terminerà l'attività corrente di generazione dell'immagine. I crediti AI utilizzati verranno rimborsati entro %d ore.",
             "attr":{
                 "priority":"translate"
             }
