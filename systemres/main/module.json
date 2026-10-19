@@ -10349,7 +10349,7 @@
                 "availableLevel": "normal",
                 "since": "26.2.0",
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_window_capture",
                 "description": "$string:ohos_desc_window_capture"
