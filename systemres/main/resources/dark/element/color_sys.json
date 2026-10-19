@@ -58,7 +58,7 @@
         },
         {
             "name": "icon_sub_emphasize",
-            "value": "#663F97E9"
+            "value": "$color:brand_contrary40"
         },
         {
             "name": "mask_primary",

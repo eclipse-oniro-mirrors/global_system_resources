@@ -40401,6 +40401,11 @@
             "type": "color",
             "name": "brand_light_01",
             "order": 7998
+        },
+        {
+            "type": "color",
+            "name": "brand_default",
+            "order": 7999
         }
     ]
 }

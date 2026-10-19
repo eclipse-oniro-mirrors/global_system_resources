@@ -1425,6 +1425,10 @@
             "value": "#007DFF"
         },
         {
+            "name": "brand_default",
+            "value": "#007DFF"
+        },
+        {
             "name": "brand_contrary",
             "value": "#007DFF"
         },
@@ -1482,7 +1486,7 @@
         },
         {
             "name": "brand_font",
-            "value": "$color:brand_contrary"
+            "value": "#007DFF"
         },
         {
             "name": "brand_font_contrary",
