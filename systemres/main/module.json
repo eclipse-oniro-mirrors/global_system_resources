@@ -10464,6 +10464,43 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.MANAGE_DAEMON_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.REGISTER_DAEMON_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.USE_DAEMON_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "normal",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.ENTERPRISE_REGISTER_DAEMON_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "availableType": "MDM",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
