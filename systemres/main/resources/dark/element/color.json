@@ -38,11 +38,11 @@
         },
         {
             "name": "ohos_id_color_emphasize",
-            "value": "#ff006cde"
+            "value": "$color:brand"
         },
         {
             "name": "ohos_id_color_emphasize_contrary",
-            "value": "#ff006cde"
+            "value": "$color:brand_dark"
         },
         {
             "name": "ohos_id_color_warning",
@@ -198,7 +198,7 @@
         },
         {
             "name": "ohos_id_color_text_highlight_bg",
-            "value": "#66006cde"
+            "value": "$color:brand40"
         },
         {
             "name": "ohos_id_color_text_highlight_bg_contrary",
@@ -510,7 +510,7 @@
         },
         {
             "name": "ohos_id_color_badge",
-            "value": "#ff006cde"
+            "value": "$color:brand"
         },
         {
             "name": "ohos_id_color_badge_red",
@@ -550,27 +550,27 @@
         },
         {
             "name": "ohos_id_color_floating_button_bg_normal",
-            "value": "#ff006cde"
+            "value": "$color:brand"
         },
         {
             "name": "ohos_id_color_floating_button_start",
-            "value": "#ff006cde"
+            "value": "$color:brand"
         },
         {
             "name": "ohos_id_color_floating_button_center",
-            "value": "#ff006cde"
+            "value": "$color:brand"
         },
         {
             "name": "ohos_id_color_floating_button_end",
-            "value": "#ff006cde"
+            "value": "$color:brand"
         },
         {
             "name": "ohos_id_color_floating_button_shadow_start",
-            "value": "#4d006cde"
+            "value": "$color:brand30"
         },
         {
             "name": "ohos_id_color_floating_button_shadow_end",
-            "value": "#4d006cde"
+            "value": "$color:brand30"
         },
         {
             "name": "ohos_id_color_floating_button_bg_pressed",
@@ -618,7 +618,7 @@
         },
         {
             "name": "ohos_fa_emphasize",
-            "value": "#ff006cde"
+            "value": "$color:brand"
         },
         {
             "name": "ohos_fa_emphasize_outline",
@@ -874,11 +874,11 @@
         },
         {
             "name": "ohos_id_color_calendar_today_day_unfocus",
-            "value": "#0a59f7"
+            "value": "$color:brand_light_01"
         },
         {
             "name": "ohos_id_color_calendar_today_lunar_unfocus",
-            "value": "#0a59f7"
+            "value": "$color:brand_light_01"
         },
         {
             "name": "ohos_id_color_calendar_work_mark",
@@ -886,7 +886,7 @@
         },
         {
             "name": "ohos_id_color_calendar_off_mark",
-            "value": "#0a59f7"
+            "value": "$color:brand_light_01"
         },
         {
             "name": "ohos_id_color_calendar_non_current_month_work_mark",
@@ -894,7 +894,7 @@
         },
         {
             "name": "ohos_id_color_calendar_non_current_month_off_mark",
-            "value": "#0a59f7"
+            "value": "$color:brand_light_01"
         },
         {
             "name": "ohos_id_color_calendar_non_current_month_day",
@@ -926,19 +926,19 @@
         },
         {
             "name": "ohos_id_icon_color_active",
-            "value": "#317AF7"
+            "value": "$color:brand_active"
         },
         {
             "name": "ohos_id_icon_color_active_secondary",
-            "value": "#317AF7"
+            "value": "$color:brand_active"
         },
         {
             "name": "ohos_id_text_color_active",
-            "value": "#317AF7"
+            "value": "$color:brand_active"
         },
         {
             "name": "ohos_id_container_color_active",
-            "value": "#317AF7"
+            "value": "$color:brand_active"
         },
         {
             "name": "ohos_id_container_color",
@@ -1065,12 +1065,68 @@
             "value": "#006CDE"
         },
         {
-            "name": "brand_font",
+            "name": "brand_contrary",
             "value": "#5291FF"
         },
         {
+            "name": "brand10",
+            "value": "#19006CDE"
+        },
+        {
+            "name": "brand20",
+            "value": "#33006CDE"
+        },
+        {
+            "name": "brand30",
+            "value": "#4D006CDE"
+        },
+        {
+            "name": "brand40",
+            "value": "#66006CDE"
+        },
+        {
+            "name": "brand_contrary40",
+            "value": "#665291FF"
+        },
+        {
+            "name": "brand_light",
+            "value": "#FF007DFF"
+        },
+        {
+            "name": "brand_light40",
+            "value": "#66007DFF"
+        },
+        {
+            "name": "brand_dark",
+            "value": "#FF006CDE"
+        },
+        {
+            "name": "brand_dark30",
+            "value": "#4D006CDE"
+        },
+        {
+            "name": "brand_dark40",
+            "value": "#66006CDE"
+        },
+        {
+            "name": "brand_icon",
+            "value": "#5291FF"
+        },
+        {
+            "name": "brand_active",
+            "value": "#317AF7"
+        },
+        {
+            "name": "brand_light_01",
+            "value": "#0A59F7"
+        },
+        {
+            "name": "brand_font",
+            "value": "$color:brand_contrary"
+        },
+        {
             "name": "brand_font_contrary",
-            "value": "#5291ff"
+            "value": "#5291FF"
         },
         {
             "name": "warning",

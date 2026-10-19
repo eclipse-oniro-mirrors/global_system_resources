@@ -22,11 +22,11 @@
         },
         {
             "name": "ohos_id_color_emphasize_transparent",
-            "value": "#ff007dff"
+            "value": "$color:brand_light"
         },
         {
             "name": "ohos_id_color_emphasize_contrary_transparent",
-            "value": "#ff006cde"
+            "value": "$color:brand_dark"
         },
         {
             "name": "ohos_id_color_warning_transparent",
@@ -178,11 +178,11 @@
         },
         {
             "name": "ohos_id_color_text_highlight_bg_transparent",
-            "value": "#66007dff"
+            "value": "$color:brand_light40"
         },
         {
             "name": "ohos_id_color_text_highlight_bg_contrary_transparent",
-            "value": "#66006cde"
+            "value": "$color:brand_dark40"
         },
         {
             "name": "ohos_id_color_palette1_transparent",
@@ -474,7 +474,7 @@
         },
         {
             "name": "ohos_id_color_badge_transparent",
-            "value": "#ff007dff"
+            "value": "$color:brand_light"
         },
         {
             "name": "ohos_id_color_badge_red_transparent",
@@ -526,11 +526,11 @@
         },
         {
             "name": "ohos_id_color_floating_button_shadow_start_transparent",
-            "value": "#4d006cde"
+            "value": "$color:brand_dark30"
         },
         {
             "name": "ohos_id_color_floating_button_shadow_end_transparent",
-            "value": "#4d006cde"
+            "value": "$color:brand_dark30"
         },
         {
             "name": "ohos_id_color_floating_button_bg_pressed_transparent",
