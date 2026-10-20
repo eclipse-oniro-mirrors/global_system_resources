@@ -10342,6 +10342,24 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SWB_RW_DEEPLINK",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.SWB_MONITOR",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
