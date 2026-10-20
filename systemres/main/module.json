@@ -10360,6 +10360,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.DISABLE_SCREEN_PRIVACY_PROTECTION",
+                "grantMode": "manual_settings",
+                "availableLevel": "normal",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": false,
+                "distributedSceneEnable": false
             }
         ]
     }
