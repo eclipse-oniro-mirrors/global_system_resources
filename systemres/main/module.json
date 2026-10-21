@@ -4500,6 +4500,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.HOOK_INPUT_EVENT",
+                "grantMode": "manual_settings",
+                "availableLevel": "system_basic",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.CONTROL_DEVICE",
                 "grantMode": "manual_settings",
                 "availableLevel": "system_basic",
@@ -10359,6 +10368,15 @@
                 "since": "26.0.1",
                 "deprecated": "",
                 "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.DISABLE_SCREEN_PRIVACY_PROTECTION",
+                "grantMode": "manual_settings",
+                "availableLevel": "normal",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": false,
                 "distributedSceneEnable": false
             },
             {

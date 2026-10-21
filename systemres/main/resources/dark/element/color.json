@@ -98,11 +98,11 @@
         },
         {
             "name": "ohos_id_color_focused_outline",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_focused_bg",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_primary",
@@ -130,15 +130,15 @@
         },
         {
             "name": "ohos_id_color_activated",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_activated_start",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_activated_end",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_text_primary",
@@ -170,15 +170,15 @@
         },
         {
             "name": "ohos_id_color_text_primary_activated",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_text_secondary_activated",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_text_search_url",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_text_hint",
@@ -190,7 +190,7 @@
         },
         {
             "name": "ohos_id_color_text_hyperlink",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_text_hyperlink_contrary",
@@ -394,7 +394,7 @@
         },
         {
             "name": "ohos_id_color_bottom_tab_icon",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_bottom_tab_icon_off",
@@ -418,7 +418,7 @@
         },
         {
             "name": "ohos_id_color_bottom_tab_text_on",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_bottom_tab_text_off",
@@ -442,7 +442,7 @@
         },
         {
             "name": "ohos_id_color_subtab_text_on",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_subtab_text_off",
@@ -450,7 +450,7 @@
         },
         {
             "name": "ohos_id_color_subtab_line_on",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_subtab_bg",
@@ -462,7 +462,7 @@
         },
         {
             "name": "ohos_id_color_toolbar_icon_actived",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_toolbar_text",
@@ -470,7 +470,7 @@
         },
         {
             "name": "ohos_id_color_toolbar_text_actived",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_id_color_toolbar_bg",
@@ -622,7 +622,7 @@
         },
         {
             "name": "ohos_fa_emphasize_outline",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_fa_alert",
@@ -694,7 +694,7 @@
         },
         {
             "name": "ohos_fa_text_activated",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_fa_icon_primary",
@@ -718,7 +718,7 @@
         },
         {
             "name": "ohos_fa_activated",
-            "value": "#ff3f97e9"
+            "value": "$color:brand_contrary"
         },
         {
             "name": "ohos_fa_palette1",
@@ -1065,8 +1065,12 @@
             "value": "#006CDE"
         },
         {
+            "name": "brand_default",
+            "value": "#006CDE"
+        },
+        {
             "name": "brand_contrary",
-            "value": "#5291FF"
+            "value": "#3F97E9"
         },
         {
             "name": "brand10",
@@ -1086,7 +1090,7 @@
         },
         {
             "name": "brand_contrary40",
-            "value": "#665291FF"
+            "value": "#663F97E9"
         },
         {
             "name": "brand_light",
@@ -1122,7 +1126,7 @@
         },
         {
             "name": "brand_font",
-            "value": "$color:brand_contrary"
+            "value": "#5291FF"
         },
         {
             "name": "brand_font_contrary",
