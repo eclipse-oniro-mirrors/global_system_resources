@@ -7189,6 +7189,16 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.SUPPORT_APP_SERVICE_EXTENSION_ADVANCED",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "availableType": "MDM",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.GET_ABILITY_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
