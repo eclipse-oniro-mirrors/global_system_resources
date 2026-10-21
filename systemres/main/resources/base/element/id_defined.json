@@ -39439,57 +39439,68 @@
         {
  	        "type": "string",
  	        "name":"image_generation_add_emoji",
-            "order": 7806
+            "order": 7806,
+            "flags": "private"
         },
         {
  	        "type": "string",
  	        "name":"image_generation_has_added_emoji",
-            "order": 7807
+            "order": 7807,
+            "flags": "private"
         },
         {
             "type": "string",
             "name":"image_generation_smart_cutout",
-            "order": 7808
+            "order": 7808,
+            "flags": "private"
         },
         {
             "type": "string",
             "name":"image_generation_smart_selection",
-            "order": 7809
+            "order": 7809,
+            "flags": "private"
         },
         {
             "type": "string",
             "name":"image_generation_manual_brush",
-            "order": 7810
+            "order": 7810,
+            "flags": "private"
         },
         {
             "type": "string",
             "name":"image_generation_smart_selection_tip",
-            "order": 7811
+            "order": 7811,
+            "flags": "private"
         },
         {
             "type": "string",
             "name":"image_generation_manual_brush_tip",
-            "order": 7812
+            "order": 7812,
+            "flags": "private"
         },
         {
             "type": "string",
             "name":"image_generation_replace_origin_image",
-            "order": 7813
+            "order": 7813,
+            "flags": "private"
         },
         {
             "type": "string",
             "name":"image_generation_undo_cutout",
-            "order": 7814
+            "order": 7814,
+            "flags": "private"
         },
         {
             "type": "string",
             "name":"image_generation_adjust_brush",
-            "order": 7815
+            "order": 7815,
+            "flags": "private"
         },
         {
             "type": "string",
             "name":"image_generation_brush_thickness",
-            "order": 7816
+            "order": 7816,
+            "flags": "private"
         },
  	    {
  	        "type": "float",

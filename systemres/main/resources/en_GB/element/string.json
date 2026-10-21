@@ -36,83 +36,6 @@
             }
         },
         {
-            "name":"image_generation_smart_cutout",
-            "value":"Cutout",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_smart_selection",
-            "value":"Auto",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_manual_brush",
-            "value":"Manual",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_smart_selection_tip",
-            "value":"Draw a line across an object to select it.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_manual_brush_tip",
-            "value":"You can expand the selected area by swiping on the screen.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_replace_origin_image",
-            "value":"Replace original",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_undo_cutout",
-            "value":"Undo cutout",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_adjust_brush",
-            "value":"Brush size adjustment, adjustable range is %1$d to %2$d, double-tap and hold, then slide left or right to adjust. Current size is %3$d.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_brush_thickness",
-            "value":"Brush size has been adjusted, current size is %d",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_add_emoji",
-            "value":"Save emoji",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
-            "name":"image_generation_has_added_emoji",
-            "value":"Emoji saved.",
-            "attr":{
-                "priority":"translate"
-            }
-        },
-        {
             "name":"image_generation_web_search_generate_photo",
             "value":"Smart canvas will search online to help it better understand the description of the image you want to generate.",
             "attr":{
@@ -3026,7 +2949,7 @@
         },
         {
             "name":"image_generation_ai_synthesis_watermark_message",
-            "value":"This will add an \"AI-generated\" watermark to this image. You can change your preferences at any time in More > AI-generated watermark.",
+            "value":"An \"AI-generated\" watermark will be added to this image. You can change your preferences at any time in More > AI-generated watermark.",
             "attr":{
                 "priority":"translate"
             }
