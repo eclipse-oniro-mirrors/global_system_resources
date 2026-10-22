@@ -10380,6 +10380,16 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ALLOW_DIRECT_BOOT",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.2.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "deviceTypes": ["2in1"]
+            },
+            {
                 "name": "ohos.permission.WINDOW_CAPTURE",
                 "grantMode": "user_grant",
                 "availableLevel": "normal",
