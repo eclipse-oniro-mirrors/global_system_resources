@@ -4494,7 +4494,7 @@
                 "name": "ohos.permission.INPUT_RECORDING",
                 "grantMode": "manual_settings",
                 "availableLevel": "system_basic",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -4503,7 +4503,7 @@
                 "name": "ohos.permission.HOOK_INPUT_EVENT",
                 "grantMode": "manual_settings",
                 "availableLevel": "system_basic",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -8378,7 +8378,7 @@
                 "name": "ohos.permission.CONNECT_AGENT_FROM_BACKGROUND",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -9418,7 +9418,7 @@
                 "name": "ohos.permission.GET_AUDIO_ADAPTER_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -9778,7 +9778,7 @@
                 "name": "ohos.permission.kernel.ACCESS_DISK_USERDATA",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -9814,7 +9814,7 @@
                 "name": "ohos.permission.vehicle.ACCESS_EXTERNAL_DVR_DATA",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10077,7 +10077,7 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "availableType": "MDM",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10087,7 +10087,7 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "availableType": "MDM",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10097,7 +10097,7 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "availableType": "MDM",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10107,7 +10107,7 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "availableType": "MDM",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10117,7 +10117,7 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "availableType": "MDM",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10127,7 +10127,7 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "availableType": "MDM",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10154,7 +10154,7 @@
                 "name": "ohos.permission.SET_DSL_MODE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
-                "since": "26.2.0",
+                "since": "26.0.1",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10227,7 +10227,7 @@
                 "name": "ohos.permission.AUTH_SERVICE_ACCESS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10256,7 +10256,7 @@
                 "name": "ohos.permission.vehicle.INNER_NETWORK",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10337,7 +10337,7 @@
                 "name": "ohos.permission.AUDIO_USER_MICROPHONE_INDICATOR",
                 "grantMode": "system_grant",
                 "availableLevel": "system_core",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10347,7 +10347,7 @@
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
                 "availableType": "MDM",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
@@ -10374,7 +10374,7 @@
                 "name": "ohos.permission.DISABLE_SCREEN_PRIVACY_PROTECTION",
                 "grantMode": "manual_settings",
                 "availableLevel": "normal",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": false,
                 "distributedSceneEnable": false
@@ -10383,7 +10383,7 @@
                 "name": "ohos.permission.ALLOW_DIRECT_BOOT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false,
