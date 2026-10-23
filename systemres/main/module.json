@@ -10393,7 +10393,7 @@
                 "name": "ohos.permission.WINDOW_CAPTURE",
                 "grantMode": "user_grant",
                 "availableLevel": "normal",
-                "since": "26.2.0",
+                "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": false,
                 "distributedSceneEnable": false,
