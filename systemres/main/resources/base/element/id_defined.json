@@ -40427,6 +40427,24 @@
             "type": "string",
             "name": "ohos_desc_window_capture",
             "order": 8001
+        },
+        {
+            "type": "color",
+            "name": "tabs_sidebar_sidemenu_menuitem_background_color_select",
+            "order": 8002,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "tabs_sidebar_sidemenu_menuitem_container_height",
+            "order": 8003,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "tabs_sidebar_searchbar_sidemenu_margin",
+            "order": 8004,
+            "flags": "private"
         }
     ]
 }

@@ -7,6 +7,10 @@
         {
             "name": "dataPanel_color_subheading_separator",
             "value": "#08182431"
+        },
+        {
+            "name": "tabs_sidebar_sidemenu_menuitem_background_color_select",
+            "value": "$color:comp_background_list_card"
         }
     ]
   }
