@@ -8936,6 +8936,10 @@
                 {
                     "name": "rich_editor_border_radius",
                     "value": "$float:rich_editor_border_radius"
+                },
+                {
+                    "name": "preview_underline_color",
+                    "value": "$color:comp_background_emphasize"
                 }
             ]
         },
