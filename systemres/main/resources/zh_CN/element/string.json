@@ -4125,6 +4125,14 @@
         {
             "name":"ohos_desc_direct_call",
             "value":"允许应用一键拨号"
+        },
+        {
+            "name":"ohos_lab_window_capture",
+            "value":"允许应用获取指定窗口的内容信息并对其执行截图操作。"
+        },
+        {
+            "name":"ohos_desc_window_capture",
+            "value":"获取该权限后，应用可查询指定窗口的ID及其所属应用包名等信息，并在指定窗口上执行截图操作。适用于智能体（Agent）应用的窗口内容感知场景，例如将窗口画面交由大模型进行分析运算。"
         }
     ]
 }

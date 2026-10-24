@@ -40417,6 +40417,16 @@
             "type": "color",
             "name": "brand_default",
             "order": 7999
+        },
+        {
+            "type": "string",
+            "name": "ohos_lab_window_capture",
+            "order": 8000
+        },
+        {
+            "type": "string",
+            "name": "ohos_desc_window_capture",
+            "order": 8001
         }
     ]
 }
