@@ -10399,6 +10399,24 @@
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_window_capture",
                 "description": "$string:ohos_desc_window_capture"
+            },
+            {
+                "name": "ohos.permission.vehicle.AALE_LIGHTRES_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.vehicle.AALE_AMBIENT_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
