@@ -10399,6 +10399,15 @@
                 "distributedSceneEnable": false,
                 "label": "$string:ohos_lab_window_capture",
                 "description": "$string:ohos_desc_window_capture"
+            },
+            {
+                "name": "ohos.permission.MANAGE_CURSOR_STYLE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
