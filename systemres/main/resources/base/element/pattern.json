@@ -5280,6 +5280,14 @@
                     "value": "$color:tab_subtab_text_focus_color"
                 },
                 {
+                    "name": "sidebar_selected_icon_color",
+                    "value": "$color:icon_primary"
+                },
+                {
+                    "name": "sidebar_selected_text_color",
+                    "value": "$color:font_primary"
+                },
+                {
                     "name": "sidebar_unselected_icon_color",
                     "value": "$color:icon_secondary"
                 },
@@ -5289,7 +5297,7 @@
                 },
                 {
                     "name": "sidebar_board_actived_color",
-                    "value": "$color:comp_emphasize_tertiary"
+                    "value": "$color:tabs_sidebar_sidemenu_menuitem_background_color_select"
                 },
                 {
                     "name": "sidebar_divider_color",
@@ -5298,6 +5306,46 @@
                 {
                     "name": "sidebar_background_color",
                     "value": "$color:background_secondary"
+                },
+                {
+                    "name": "sidebar_sidemenu_menuitem_radius",
+                    "value": "$float:corner_radius_level8"
+                },
+                {
+                    "name": "sidebar_sidemenu_menuitem_hover",
+                    "value": "$color:interactive_hover"
+                },
+                {
+                    "name": "sidebar_sidemenu_menuitem_pressed",
+                    "value": "$color:interactive_pressed"
+                },
+                {
+                    "name": "sidebar_sidemenu_menuitem_focus",
+                    "value": "$color:interactive_focus"
+                },
+                {
+                    "name": "sidebar_sidemenu_menuitem_height",
+                    "value": "$float:tabs_sidebar_sidemenu_menuitem_container_height"
+                },
+                {
+                    "name": "sidebar_sidemenu_menuitem_padding_level4",
+                    "value": "$float:padding_level4"
+                },
+                {
+                    "name": "sidebar_sidemenu_menuitem_padding_level8",
+                    "value": "$float:padding_level8"
+                },
+                {
+                    "name": "sidebar_sidemenu_menuitem_padding_level10",
+                    "value": "$float:padding_level10"
+                },
+                {
+                    "name": "sidebar_sidemenu_menuitem_text_font_size",
+                    "value": "$float:Body_L"
+                },
+                {
+                    "name": "sidebar_searchbar_sidemenu_margin",
+                    "value": "$float:tabs_sidebar_searchbar_sidemenu_margin"
                 }
             ]
         },
@@ -8888,6 +8936,10 @@
                 {
                     "name": "rich_editor_border_radius",
                     "value": "$float:rich_editor_border_radius"
+                },
+                {
+                    "name": "preview_underline_color",
+                    "value": "$color:comp_background_emphasize"
                 }
             ]
         },

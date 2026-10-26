@@ -31,6 +31,14 @@
         {
             "name": "titlebar_title_margin_right",
             "value": "$float:padding_level12"
+        },
+        {
+            "name": "tabs_sidebar_sidemenu_menuitem_container_height",
+            "value": "56.0vp"
+        },
+        {
+            "name": "tabs_sidebar_searchbar_sidemenu_margin",
+            "value": "8.0vp"
         }
     ]
 }
