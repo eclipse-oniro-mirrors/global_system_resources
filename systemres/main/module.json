@@ -10427,6 +10427,15 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false,
                 "deviceTypes": ["phone", "2in1", "tablet"]
+            },
+            {
+                "name": "ohos.permission.PROMPT_INJECT_DETECTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
