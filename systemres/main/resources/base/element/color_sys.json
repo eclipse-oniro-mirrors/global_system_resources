@@ -58,7 +58,7 @@
         },
         {
             "name": "icon_emphasize",
-            "value": "$color:brand_font"
+            "value": "$color:brand_icon"
         },
         {
             "name": "icon_sub_emphasize",
