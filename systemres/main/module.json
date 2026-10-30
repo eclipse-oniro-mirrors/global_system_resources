@@ -10401,6 +10401,43 @@
                 "description": "$string:ohos_desc_window_capture"
             },
             {
+                "name": "ohos.permission.MANAGE_CURSOR_STYLE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.USE_ULTRA_FAST_AUDIO_STREAM",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.DLP_ACTIVE_SECURITY",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "deviceTypes": ["phone", "2in1", "tablet"]
+            },
+            {
+                "name": "ohos.permission.PROMPT_INJECT_DETECTION",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.vehicle.AALE_LIGHTRES_SERVICE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",

@@ -58,7 +58,7 @@
         },
         {
             "name": "icon_emphasize",
-            "value": "$color:brand_font"
+            "value": "$color:brand_icon"
         },
         {
             "name": "icon_sub_emphasize",
@@ -1159,6 +1159,10 @@
         {
             "name": "grid_menu_divider_color",
             "value": "$color:comp_background_tertiary"
+        },
+        {
+            "name": "tabs_sidebar_sidemenu_menuitem_background_color_select",
+            "value": "$color:comp_emphasize_tertiary"
         }
     ]
   }

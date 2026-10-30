@@ -62,7 +62,7 @@
         },
         {
             "name": "ohos_id_color_component_activated",
-            "value": "#ff007dff"
+            "value": "$color:comp_background_emphasize"
         },
         {
             "name": "ohos_id_color_component_normal",

@@ -2019,6 +2019,14 @@
         {
             "name": "grid_menu_divider_height",
             "value": "$float:padding_level2"
-         }
+        },
+        {
+            "name": "tabs_sidebar_sidemenu_menuitem_container_height",
+            "value": "48.0vp"
+        },
+        {
+            "name": "tabs_sidebar_searchbar_sidemenu_margin",
+            "value": "4.0vp"
+        }
     ]
 }
