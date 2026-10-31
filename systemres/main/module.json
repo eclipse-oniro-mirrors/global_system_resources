@@ -10438,6 +10438,16 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ALLOW_CROSS_APP_IPC",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false,
+                "hasValue": true
+            },
+            {
                 "name": "ohos.permission.vehicle.AALE_LIGHTRES_SERVICE",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
