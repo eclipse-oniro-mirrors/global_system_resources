@@ -10446,6 +10446,24 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false,
                 "hasValue": true
+            },
+            {
+                "name": "ohos.permission.vehicle.AALE_LIGHTRES_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.vehicle.AALE_AMBIENT_SERVICE",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.0.1",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
