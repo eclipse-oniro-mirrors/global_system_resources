@@ -230,7 +230,7 @@
         },
         {
             "name": "navigation_drag_bar_active",
-            "value": "#33ABC9FF"
+            "value": "$color:brand"
         },
         {
             "name": "navigation_divider_light_blue_active",
@@ -238,7 +238,7 @@
         },
         {
             "name": "navigation_divider_dark_blue_active",
-            "value": "#FF5291FF"
+            "value": "$color:brand"
         },
         {
             "name": "radio_ring_focus_color_unchecked",
