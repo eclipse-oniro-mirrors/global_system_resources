@@ -10441,11 +10441,12 @@
                 "name": "ohos.permission.ALLOW_CROSS_APP_IPC",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": "26.1.0",
+                "since": "26.0.1",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false,
-                "hasValue": true
+                "hasValue": true,
+                "deviceTypes": ["2in1"]
             },
             {
                 "name": "ohos.permission.vehicle.AALE_LIGHTRES_SERVICE",
