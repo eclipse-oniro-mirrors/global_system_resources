@@ -166,7 +166,7 @@
         },
         {
             "name": "interactive_active",
-            "value": "#007DFF"
+            "value": "$color:brand"
         },
         {
             "name": "interactive_select",
