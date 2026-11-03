@@ -9353,7 +9353,7 @@
                 "name": "ohos.permission.vehicle.CAMERA_EVS",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "since": "26.0.0",
+                "since": "26.0.1",
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
