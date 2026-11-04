@@ -1433,8 +1433,16 @@
             "value": "#007DFF"
         },
         {
+            "name": "brand05",
+            "value": "#0C007DFF"
+        },
+        {
             "name": "brand10",
             "value": "#19007DFF"
+        },
+        {
+            "name": "brand15",
+            "value": "#26007DFF"
         },
         {
             "name": "brand20",
@@ -1449,8 +1457,32 @@
             "value": "#66007DFF"
         },
         {
+            "name": "brand50",
+            "value": "#7F007DFF"
+        },
+        {
+            "name": "brand60",
+            "value": "#99007DFF"
+        },
+        {
+            "name": "brand70",
+            "value": "#B2007DFF"
+        },
+        {
+            "name": "brand80",
+            "value": "#CC007DFF"
+        },
+        {
+            "name": "brand90",
+            "value": "#E5007DFF"
+        },
+        {
             "name": "brand_contrary40",
             "value": "#66007DFF"
+        },
+        {
+            "name": "brand_contrary60",
+            "value": "#99007DFF"
         },
         {
             "name": "brand_light",
@@ -1471,6 +1503,10 @@
         {
             "name": "brand_dark40",
             "value": "#66006CDE"
+        },
+        {
+            "name": "brand_dark60",
+            "value": "#99006CDE"
         },
         {
             "name": "brand_icon",
