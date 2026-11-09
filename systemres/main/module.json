@@ -6677,6 +6677,15 @@
                 "distributedSceneEnable": false
             },
             {
+                "name": "ohos.permission.ENTERPRISE_MANAGE_DISK",
+                "grantMode": "system_grant",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
+            },
+            {
                 "name": "ohos.permission.ACCESS_USER_ACCOUNT_INFO",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
