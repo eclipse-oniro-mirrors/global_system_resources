@@ -40490,6 +40490,11 @@
             "type": "color",
             "name": "brand_dark60",
             "order": 8013
+        },
+        {
+            "type": "string",
+            "name": "text_translate_input",
+            "order": 8014
         }
     ]
 }
