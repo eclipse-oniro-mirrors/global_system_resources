@@ -166,7 +166,7 @@
         },
         {
             "name": "interactive_active",
-            "value": "#007DFF"
+            "value": "$color:brand"
         },
         {
             "name": "interactive_select",
@@ -294,7 +294,7 @@
         },
         {
             "name": "navigation_drag_bar_active",
-            "value": "#330A59F7"
+            "value": "$color:brand"
         },
         {
             "name": "navigation_divider_light_blue_active",
@@ -302,7 +302,7 @@
         },
         {
             "name": "navigation_divider_dark_blue_active",
-            "value": "#FF0A59F7"
+            "value": "$color:brand"
         },
         {
             "name": "radio_container_focus_color",

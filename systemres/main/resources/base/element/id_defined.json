@@ -40445,6 +40445,56 @@
             "name": "tabs_sidebar_searchbar_sidemenu_margin",
             "order": 8004,
             "flags": "private"
+        },
+        {
+            "type": "color",
+            "name": "brand05",
+            "order": 8005
+        },
+        {
+            "type": "color",
+            "name": "brand15",
+            "order": 8006
+        },
+        {
+            "type": "color",
+            "name": "brand50",
+            "order": 8007
+        },
+        {
+            "type": "color",
+            "name": "brand60",
+            "order": 8008
+        },
+        {
+            "type": "color",
+            "name": "brand70",
+            "order": 8009
+        },
+        {
+            "type": "color",
+            "name": "brand80",
+            "order": 8010
+        },
+        {
+            "type": "color",
+            "name": "brand90",
+            "order": 8011
+        },
+        {
+            "type": "color",
+            "name": "brand_contrary60",
+            "order": 8012
+        },
+        {
+            "type": "color",
+            "name": "brand_dark60",
+            "order": 8013
+        },
+        {
+            "type": "string",
+            "name": "text_translate_input",
+            "order": 8014
         }
     ]
 }

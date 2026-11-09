@@ -5346,6 +5346,14 @@
                 {
                     "name": "sidebar_searchbar_sidemenu_margin",
                     "value": "$float:tabs_sidebar_searchbar_sidemenu_margin"
+                },
+                {
+                    "name": "icon_emphasize",
+                    "value": "$color:icon_emphasize"
+                },
+                {
+                    "name": "icon_primary",
+                    "value": "$color:icon_primary"
                 }
             ]
         },
@@ -5961,6 +5969,10 @@
                 {
                     "name": "camera_input",
                     "value": "$string:ohos_id_text_camera_input"
+                },
+                {
+                    "name": "translate_input",
+                    "value": "$string:text_translate_input"
                 },
                 {
                     "name": "ai_write_menu_name",
