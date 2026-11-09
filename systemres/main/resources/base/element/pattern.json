@@ -5346,6 +5346,14 @@
                 {
                     "name": "sidebar_searchbar_sidemenu_margin",
                     "value": "$float:tabs_sidebar_searchbar_sidemenu_margin"
+                },
+                {
+                    "name": "icon_emphasize",
+                    "value": "$color:icon_emphasize"
+                },
+                {
+                    "name": "icon_primary",
+                    "value": "$color:icon_primary"
                 }
             ]
         },
