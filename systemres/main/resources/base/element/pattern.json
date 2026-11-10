@@ -5348,12 +5348,72 @@
                     "value": "$float:tabs_sidebar_searchbar_sidemenu_margin"
                 },
                 {
+                    "name": "interactive_focus",
+                    "value": "$color:interactive_focus"
+                },
+                {
+                    "name": "outline_extra_larger",
+                    "value": "$float:outline_extra_larger"
+                },
+                {
+                    "name": "border_extra_larger",
+                    "value": "$float:border_extra_larger"
+                },
+                {
                     "name": "icon_emphasize",
                     "value": "$color:icon_emphasize"
                 },
                 {
                     "name": "icon_primary",
                     "value": "$color:icon_primary"
+                },
+                {
+                    "name": "font_emphasize",
+                    "value": "$color:font_emphasize"
+                },
+                {
+                    "name": "font_primary",
+                    "value": "$color:font_primary"
+                },
+                {
+                    "name": "tab_Subtitle_M",
+                    "value": "$float:Subtitle_M"
+                },
+                {
+                    "name": "tab_Subtitle_S",
+                    "value": "$float:Subtitle_S"
+                },
+                {
+                    "name": "tab_Subtitle_L",
+                    "value": "$float:Subtitle_L"
+                },
+                {
+                    "name": "font_secondary",
+                    "value": "$color:font_secondary"
+                },
+                {
+                    "name": "icon_tertiary",
+                    "value": "$color:icon_tertiary"
+                },
+                {
+                    "name": "tabs_section_height",
+                    "value": "$float:tabs_section_height"
+                },
+                {
+                    "name": "tabs_section_bottom_margin",
+                    "value": "$float:tabs_section_bottom_margin"
+                },
+                {
+                    "name": "corner_radius_level3",
+                    "value": "$float:corner_radius_level3"
+                },
+                {
+                    "name": "outline_small",
+                    "value": "$float:outline_small"
+                },
+                {
+                    "name": "comp_background_tertiary",
+                    "value": "$color:comp_background_tertiary"
                 }
             ]
         },

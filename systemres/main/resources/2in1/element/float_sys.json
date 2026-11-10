@@ -179,6 +179,14 @@
         {
             "name": "menu_animation_offset",
             "value": "0.0px"
+        },
+        {
+            "name": "tabs_section_height",
+            "value": "40.0vp"
+        },
+        {
+            "name": "tabs_section_bottom_margin",
+            "value": "8.0vp"
         }
     ]
 }
