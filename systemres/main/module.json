@@ -9658,7 +9658,8 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
-            },{
+            },
+			{
                 "name": "ohos.permission.vehicle.MMA_WEATHER",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
@@ -9676,6 +9677,24 @@
                 "provisionEnable": true,
                 "distributedSceneEnable": false
             },
+			{
+				"name": "ohos.permission.vehicle.MMA_OCCUPANT",
+				"grantMode": "system_grant",
+				"availableLevel": "system_basic",
+				"since": "26.0.1",
+				"deprecated": "",
+				"provisionEnable": true,
+				"distributedSceneEnable": false
+			},
+			{
+				"name": "ohos.permission.vehicle.MMA_CARSTATUS",
+				"grantMode": "system_grant",
+				"availableLevel": "system_basic",
+				"since": "26.0.1",
+				"deprecated": "",
+				"provisionEnable": true,
+				"distributedSceneEnable": false
+			},
             {
                 "name": "ohos.permission.MUTE_VOIP_CAPTURE",
                 "grantMode": "system_grant",
