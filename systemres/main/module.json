@@ -10587,6 +10587,15 @@
                 "deprecated": "",
                 "provisionEnable": true,
                 "distributedSceneEnable": false
+            },
+            {
+                "name": "ohos.permission.OPERATE_TEXT_ACROSS_APPLICATION",
+                "grantMode": "manual_settings",
+                "availableLevel": "system_basic",
+                "since": "26.1.0",
+                "deprecated": "",
+                "provisionEnable": true,
+                "distributedSceneEnable": false
             }
         ]
     }
