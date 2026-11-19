@@ -40495,6 +40495,18 @@
             "type": "string",
             "name": "text_translate_input",
             "order": 8014
+        },
+        {
+            "type": "float",
+            "name": "tabs_section_height",
+            "order": 8015,
+            "flags": "private"
+        },
+        {
+            "type": "float",
+            "name": "tabs_section_bottom_margin",
+            "order": 8016,
+            "flags": "private"
         }
     ]
 }

@@ -39,6 +39,14 @@
         {
             "name": "tabs_sidebar_searchbar_sidemenu_margin",
             "value": "8.0vp"
+        },
+        {
+            "name": "tabs_section_height",
+            "value": "56.0vp"
+        },
+        {
+            "name": "tabs_section_bottom_margin",
+            "value": "12.0vp"
         }
     ]
 }
