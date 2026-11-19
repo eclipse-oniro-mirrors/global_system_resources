@@ -10611,7 +10611,6 @@
                 "name": "ohos.permission.RESOURCE_SCHEDULE_PERF_HINT",
                 "grantMode": "system_grant",
                 "availableLevel": "system_basic",
-                "availableType": "SYSTEM",
                 "since": "26.1.0",
                 "deprecated": "",
                 "provisionEnable": true,
