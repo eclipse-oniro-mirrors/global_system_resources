@@ -10631,7 +10631,7 @@
                 "availableLevel": "system_basic",
                 "since": "26.1.0",
                 "deprecated": "",
-                "provisionEnable": true,
+                "provisionEnable": false,
                 "distributedSceneEnable": false
             },
             {
