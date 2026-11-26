@@ -40507,6 +40507,26 @@
             "name": "tabs_section_bottom_margin",
             "order": 8016,
             "flags": "private"
+        },
+        {
+            "type": "string",
+            "name": "title_camera_effect_available",
+            "order": 8017
+        },
+        {
+            "type": "string",
+            "name": "summary_camera_effect_available",
+            "order": 8018
+        },
+        {
+            "type": "string",
+            "name": "beauty_settings",
+            "order": 8019
+        },
+        {
+            "type": "string",
+            "name": "beauty_ignore",
+            "order": 8020
         }
     ]
 }
