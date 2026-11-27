@@ -4370,6 +4370,34 @@
         {
             "name":"text_translate_input",
             "value":"Translate input"
+        },
+        {
+            "name":"title_camera_effect_available",
+            "value":"Camera effects available",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"summary_camera_effect_available",
+            "value":"Adjust beauty and XIMAGE style in video calls",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"beauty_settings",
+            "value":"Go to Settings",
+            "attr":{
+                "priority":"translate"
+            }
+        },
+        {
+            "name":"beauty_ignore",
+            "value":"Ignore",
+            "attr":{
+                "priority":"translate"
+            }
         }
     ]
 }
