@@ -410,7 +410,7 @@
         },
         {
             "name": "ring_progress_fg_color_begin",
-            "value": "$color:ohos_id_color_ring_progress_begin"
+            "value": "$color:comp_background_emphasize"
         },
         {
             "name": "scrollbar_color_foreground",
